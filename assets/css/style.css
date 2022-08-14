@@ -3,11 +3,11 @@
     padding: 0;
     margin: 0;
 }
-
+/* the color of the top of the page */
 body {
     background-color: #d9dcd6;
 }
-
+/* header font, color,padding proprtys  */
 .header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
@@ -38,16 +38,16 @@ body {
     margin-left: 25px;
 }
 
-
+/* tag for hyperlink */
 a {
     color: #ffffff;
     text-decoration: none;
 }
-
+/* the paragraph of main content */
 p {
     font-size: 16px;
 }
-
+/* the main website photo */
 .main-photo {
     height: 800px;
     width: 100%;
@@ -56,23 +56,23 @@ p {
     background-size: cover;
     background-position: center;
 }
-
+/* image margin left */
 .float-left {
     float: left;
     margin-right: 25px;
 }
-
+/* image margin */
 .float-right {
     float: right;
     margin-left: 25px;
 }
-
+/* The margin, display, width proprtys */
 .content {
     width: 75%;
     display: inline-block;
     margin-left: 20px;
 }
-
+/* linked to all benefits class proprtys */
 .benefits {
     margin-right: 20px;
     padding: 20px;
@@ -100,7 +100,7 @@ p {
     margin: 10px auto;
     max-width: 150px;
 }
-
+/* link to the main proprtys in the mian section of the page */
 .main {
     margin-bottom: 20px;
     padding: 50px;
@@ -118,7 +118,7 @@ p {
     margin-bottom: 20px;
     font-size: 36px;
 }
-
+/* the proprtys of the footer */
 .footer {
     padding: 30px;
     clear: both;
