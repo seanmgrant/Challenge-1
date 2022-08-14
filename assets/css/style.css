@@ -7,7 +7,7 @@
 body {
     background-color: #d9dcd6;
 }
-/* header font, color,padding proprtys  */
+/* header font, color,padding properties  */
 .header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
@@ -66,13 +66,13 @@ p {
     float: right;
     margin-left: 25px;
 }
-/* The margin, display, width proprtys */
+/* The margin, display, width properties */
 .content {
     width: 75%;
     display: inline-block;
     margin-left: 20px;
 }
-/* linked to all benefits class proprtys */
+/* linked to all benefits class properties  */
 .benefits {
     margin-right: 20px;
     padding: 20px;
@@ -100,7 +100,7 @@ p {
     margin: 10px auto;
     max-width: 150px;
 }
-/* link to the main proprtys in the mian section of the page */
+/* link to the main properties  in the mian section of the page */
 .main {
     margin-bottom: 20px;
     padding: 50px;
@@ -118,7 +118,7 @@ p {
     margin-bottom: 20px;
     font-size: 36px;
 }
-/* the proprtys of the footer */
+/* the properties of the footer */
 .footer {
     padding: 30px;
     clear: both;
